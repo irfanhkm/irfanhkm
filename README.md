@@ -2,8 +2,6 @@
 <h3 align="center">Software Engineer from Malang, East Java, Indonesia. <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="14"/> </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfanhkm" alt="devded" /> </p>
 
-- 🔭 Backend Engineer on [DOT Indonesia](https://github.com/pt-dot)
-
 - 🌱 Computer science student at Binus Online Learning
 
 #### 💻 Stack I Work With
