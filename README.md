@@ -3,6 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfanhkm" alt="devded" /> </p>
 
 - 🌱 Computer science student at Binus Online Learning
+- Currently curious on java backend
 
 #### 💻 Stack I Work With
 
