@@ -2,6 +2,7 @@
 <h3 align="center">Software Engineer from Malang, East Java, Indonesia. <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="14"/> </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfanhkm" alt="devded" /> </p>
 
+- Software Engineer at OY Indonesia !
 - 🌱 Computer science student at Binus Online Learning
 - Currently curious on java backend
 
